@@ -40,10 +40,13 @@ Esses elementos compõem a base para a futura implementação do sistema.
 Os protótipos estão na pasta `prototipos_interface/` ou nos links contidos nela.
 
 ### 2. Visualizar os Diagramas
-Os diagramas da Fase 1 estão disponíveis em `diagrams_phase1/`.
+Os diagramas estão disponíveis em `docs/` e `imagens/`.
 
-### 4. Documentação da Entrega 2
-As jornadas de cadastro (PF, PJ, Aluno, Professor e Fornecedor) estão organizadas dentro da pasta `docs/`.
+### 3. Scripts SQL (DDL e DML)
+Os Scripts SQL para Criação/Definição (DDL) e Manipulação/Atialização (DML) estão em `sql/` 
+
+### 4. Documentação e desenvolvimento do Software de Gestão de Cadastro para Faculdade
+Todo o desenvolvimento e documentação organizados dentro da pasta `docs/`.
 
 ---
 
