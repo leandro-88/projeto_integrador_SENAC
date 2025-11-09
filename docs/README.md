@@ -129,8 +129,11 @@ PessoaJuridica <|-- Fornecedor
 
 # 4. Protótipo Funcional (Figma)
 
-🔗 **Clique para abrir o protótipo navegável:**  
-https://www.figma.com/proto/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&t=cujTRCC4AwB2m2As-1
+🔗 ### 🔧 Link do Desenvolvedor (Edição - modo visualização externa)
+[Acessar no Figma – Modo Desenvolvedor](https://www.figma.com/design/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&m=dev&t=xrkRUne6U1k0YLd1-1)
+
+🔗 ### ▶️ Link para Assistir ao Protótipo (Modo Play)
+[Abrir Protótipo Navegável](https://www.figma.com/proto/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&t=xrkRUne6U1k0YLd1-1)
 
 ---
 
