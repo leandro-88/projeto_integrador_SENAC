@@ -18,20 +18,19 @@ Esses elementos compõem a base para a futura implementação do sistema.
 
 ## Estrutura do Repositório
 
-prototipos_interface/
-→ Protótipos das jornadas (Figma)
+docs/  
+→ Documentação completa do projeto, incluindo diagramas (Casos de Uso, Classes, etc.), especificações e demais artefatos desenvolvidos.
 
-diagrams_phase1/
-→ Diagramas da Fase 1 (Casos de Uso, Classes, etc.) e todo o trabalho desenvolvido
+imagens/  
+→ Repositório central de todos os recursos visuais do projeto, como diagramas UML e telas do protótipo.
 
-sql/
-Os comando DDL e DML desenvolvidos
-tabelas.sql → Scripts DDL
-queries.sql → Scripts DML e consultas de teste
+prototipos_interface/  
+→ Protótipos funcionais das jornadas de uso, desenvolvidos no Figma.
 
-docs/
-→ Documentação complementar da Entrega 2
-
+sql/  
+→ Scripts relacionados ao modelo de dados do sistema:  
+   • **tabelas.sql** – Definição das tabelas (DDL)  
+   • **queries.sql** – Comandos DML e consultas de teste
 ---
 
 ## Instruções de Uso
