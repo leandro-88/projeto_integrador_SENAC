@@ -1,4 +1,4 @@
-# Sistema de Cadastro Universitário – Fase 2
+# Sistema de Cadastro Universitário
 
 Este repositório reúne todos os artefatos da Segunda Entrega do projeto, incluindo protótipos de interface, diagramas, documentação e scripts SQL relacionados ao sistema de cadastro de Pessoas Físicas, Pessoas Jurídicas, Professores, Alunos e Fornecedores da instituição.
 
@@ -22,7 +22,11 @@ A modelagem foi construída com base em diagramas UML e protótipos funcionais d
 
 Os protótipos desenvolvidos no Figma estão disponíveis no link abaixo:
 
-🔗 **[Protótipo no Figma – Sistema de Gestão SENAC EAD](https://www.figma.com/design/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&m=dev&t=xrkRUne6U1k0YLd1-1)**
+🔗 ### 🔧 Link do Desenvolvedor (Edição)
+[Acessar no Figma – Modo Desenvolvedor](https://www.figma.com/design/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&m=dev&t=xrkRUne6U1k0YLd1-1)
+
+🔗 ### ▶️ Link para Assistir ao Protótipo (Modo Play)
+[Abrir Protótipo Navegável](https://www.figma.com/proto/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&t=xrkRUne6U1k0YLd1-1)
 
 Também estão organizados na pasta:
 
