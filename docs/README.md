@@ -24,7 +24,7 @@
 
 ---
 
-# 📌 1. Diagrama de Caso de Uso
+# 1. Diagrama de Caso de Uso
 
 O diagrama apresenta os atores que interagem com o sistema e suas responsabilidades no processo de cadastro institucional.
 
@@ -44,13 +44,13 @@ O diagrama apresenta os atores que interagem com o sistema e suas responsabilida
 
 ---
 
-# 📌 2. Cenários dos Casos de Uso
+# 2. Cenários dos Casos de Uso
 
 Cada cenário descreve o fluxo principal e alternativas de interação entre usuário e sistema.
 
 ---
 
-## 🔷 2.1 Cadastro de Pessoa Física
+## 2.1 Cadastro de Pessoa Física
 
 **Atores:** Secretaria, Administrador do Sistema  
 **Pré-condição:** Usuário autenticado  
@@ -71,7 +71,7 @@ Cada cenário descreve o fluxo principal e alternativas de interação entre usu
 
 ---
 
-## 🔷 2.2 Cadastro de Pessoa Jurídica
+## 2.2 Cadastro de Pessoa Jurídica
 
 **Atores:** Administrativo, Administrador do Sistema  
 **Pós-condição:** Pessoa Jurídica registrada
@@ -82,22 +82,22 @@ Cada cenário descreve o fluxo principal e alternativas de interação entre usu
 
 ---
 
-## 🔷 2.3 Cadastro de Professor
+## 2.3 Cadastro de Professor
 Fluxo semelhante ao de Pessoa Física, com dados docentes.
 
 ---
 
-## 🔷 2.4 Cadastro de Aluno
+## 2.4 Cadastro de Aluno
 Fluxo semelhante ao de PF, com geração automática da matrícula.
 
 ---
 
-## 🔷 2.5 Cadastro de Fornecedor
+## 2.5 Cadastro de Fornecedor
 Valida CNPJ e dados empresariais.
 
 ---
 
-# 📌 3. Diagrama de Classes
+# 3. Diagrama de Classes
 
 <br>
 
@@ -127,14 +127,14 @@ PessoaJuridica <|-- Fornecedor
 
 ---
 
-# 📌 4. Protótipo Funcional (Figma)
+# 4. Protótipo Funcional (Figma)
 
 🔗 **Clique para abrir o protótipo navegável:**  
 https://www.figma.com/proto/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&t=cujTRCC4AwB2m2As-1
 
 ---
 
-# 📌 5. Telas do Protótipo
+# 5. Telas do Protótipo
 
 Cada tela representa uma etapa essencial dos processos de cadastro.
 
