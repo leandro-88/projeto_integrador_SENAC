@@ -34,7 +34,7 @@ O diagrama apresenta os atores que interagem com o sistema e suas responsabilida
   <img src="../imagens/Diagrama Casos de Uso.png" width="85%">
 </p>
 
-## ✅ Atores e Permissões
+## Atores e Permissões
 
 | Ator                    | Funcionalidades |
 |------------------------|------------------|
@@ -105,7 +105,7 @@ Valida CNPJ e dados empresariais.
   <img src="../imagens/Diagrama de Classes.png" width="88%">
 </p>
 
-## ✅ Estrutura Geral
+## Estrutura Geral
 
 **Classes Principais:**
 
@@ -127,14 +127,14 @@ PessoaJuridica <|-- Fornecedor
 
 ---
 
-# 🎨 4. Protótipo Funcional (Figma)
+# 4. Protótipo Funcional (Figma)
 
 🔗 **Clique para abrir o protótipo navegável:**  
 https://www.figma.com/proto/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&t=cujTRCC4AwB2m2As-1
 
 ---
 
-# 🖼️ 5. Telas do Protótipo
+# 5. Telas do Protótipo
 
 Cada tela representa uma etapa essencial dos processos de cadastro.
 
