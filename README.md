@@ -18,7 +18,7 @@ Esses elementos compõem a base para a futura implementação do sistema.
 
 ## Estrutura do Repositório
 
-docs/
+docs/ <br>
 → Documentação completa do projeto, incluindo diagramas (Casos de Uso, Classes, etc.), especificações e demais artefatos desenvolvidos.
 
 imagens/  
