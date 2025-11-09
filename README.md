@@ -1,4 +1,4 @@
-# Projeto Integrador - Sistema de Gestão Acadêmica <img src="Senac_logo.png" width="50%">
+# Projeto Integrador - Sistema de Gestão Acadêmica <img src="imagens/Senac_logo.png" width="50%">
 
 ## Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 
@@ -15,7 +15,7 @@ Professor Orientador: Me. Anderson Clayton
 ## 1\. Diagrama de Caso de Uso
 
 Este diagrama representa os atores que interagem com o sistema e as funcionalidades de cadastro que cada um pode executar.
-<img src="Diagrama Casos de Uso.png">
+<img src="imagens/Diagrama Casos de Uso.png">
 
 ### Atores e Funcionalidades
 
@@ -122,7 +122,7 @@ Este diagrama representa os atores que interagem com o sistema e as funcionalida
 
 ## 3\. Diagrama de Classes
 
-<img src="Diagrama de Classes.png">
+<img src="imagens/Diagrama de Classes.png">
 
 ### Estrutura Geral
 
@@ -152,22 +152,22 @@ PessoaJuridica <|-- Fornecedor
 ## Protótipo Funcional desenvolvido em Figma -> [link aqui](https://www.figma.com/proto/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&t=cujTRCC4AwB2m2As-1)
 
 **Tela 1 - Login**
-<Imagem F1 - login.png>
+<img src="imagens/F1 - login.png">
 
 **Tela 2 - Cadastro Pessoa Física**
-<Imagem F2 - Pessoa fisica.png>
+<img src="imagens/F2 - Pessoa fisica.png">
 
 **Tela 3 - Cadastro Professores**
-<Imagem F3 - Professores.png>
+<img src="imagens/F3 - Professores.png">
 
 **Tela 4 - Cadastro Alunos**
-<Imagem F4 - Alunos.png>
+<img src="imagens/F4 - Alunos.png">
 
 **Tela 5 - Cadastro Pessoa Jurídica**
-<Imagem F5 - Pessoa Juridica.png>
+<img src="imagens/F5 - Pessoa Juridica.png">
 
 **Tela 6 - Cadastro Fornecedores**
-<Imagem F6 - Fornecedores.png>
+<img src="imagens/F6 - Fornecedores.png">
 
 **Tela 7 - Confirmação Salvo com Sucesso**
-<Imagem F7 - Salvo Sucesso.png>
+<img src="imagens/F7 - Salvo Sucesso.png">
