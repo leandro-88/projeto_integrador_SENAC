@@ -27,7 +27,3 @@ Os protótipos desenvolvidos no Figma estão disponíveis no link abaixo:
 
 🔗 ### ▶️ Link para Assistir ao Protótipo (Modo Play)
 [Abrir Protótipo Navegável](https://www.figma.com/proto/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&t=xrkRUne6U1k0YLd1-1)
-
-Também estão organizados na pasta:
-
-
