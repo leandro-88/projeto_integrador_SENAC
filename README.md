@@ -43,7 +43,7 @@ Os protótipos estão na pasta `prototipos_interface/` ou nos links contidos nel
 Os diagramas estão disponíveis em `docs/` e `imagens/`.
 
 ### 3. Scripts SQL (DDL e DML)
-Os Scripts SQL para Criação/Definição (DDL) e Manipulação/Atialização (DML) estão em `sql/` 
+Os Scripts SQL para Criação/Definição (DDL) e Manipulação/Atualização (DML) estão em `sql/` 
 
 ### 4. Documentação e desenvolvimento do Software de Gestão de Cadastro para Faculdade
 Todo o desenvolvimento e documentação organizados dentro da pasta `docs/`.
