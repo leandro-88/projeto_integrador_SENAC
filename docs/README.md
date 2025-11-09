@@ -140,8 +140,11 @@ Cada tela representa uma etapa essencial dos processos de cadastro.
 
 ---
 
-### 🔹 Tela 1 — Login  
-<p align="center"><img src="../imagens/F1 - login.png" width="55%"></p>
+### 🔹 Tela 0 — Login  
+<p align="center"><img src="../imagens/F0 - login.png" width="55%"></p>
+
+### 🔹 Tela 1 — Tela inicial 
+<p align="center"><img src="../imagens/F1 - tela inicial.png" width="55%"></p>
 
 ### 🔹 Tela 2 — Cadastro Pessoa Física  
 <p align="center"><img src="../imagens/F2 - Pessoa fisica.png" width="55%"></p>
