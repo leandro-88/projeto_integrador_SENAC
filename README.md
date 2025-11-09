@@ -24,7 +24,7 @@ Esses elementos compõem a base para a futura implementação do sistema.
 **imagens/**  
 → Repositório central de todos os recursos visuais do projeto, como diagramas UML e telas do protótipo.
 
-**prototipos_interface/** 
+**prototipos_interface/** <br>
 → Protótipos funcionais das jornadas de uso, desenvolvidos no Figma.
 
 **sql/** <br>
