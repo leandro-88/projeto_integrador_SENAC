@@ -22,15 +22,17 @@ prototipos_interface/
 → Protótipos das jornadas (Figma)
 
 diagrams_phase1/
-→ Diagramas da Fase 1 (Casos de Uso, Classes, etc.)
+→ Diagramas da Fase 1 (Casos de Uso, Classes, etc.) e todo o trabalho desenvolvido
 
 sql/
-create_tables.sql → Scripts DDL
+Os comando DDL e DML desenvolvidos
+tabelas.sql → Scripts DDL
 queries.sql → Scripts DML e consultas de teste
 
 docs/
 → Documentação complementar da Entrega 2
 
+README.md
 ---
 
 ## Instruções de Uso
