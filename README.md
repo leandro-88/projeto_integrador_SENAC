@@ -29,8 +29,8 @@ prototipos_interface/
 
 sql/  
 → Scripts relacionados ao modelo de dados do sistema:  
-   • **tabelas.sql** – Definição das tabelas (DDL)  
-   • **queries.sql** – Comandos DML e consultas de teste
+   • tabelas.sql – Definição das tabelas (DDL)  
+   • queries.sql – Comandos DML e consultas de teste
 ---
 
 ## Instruções de Uso
