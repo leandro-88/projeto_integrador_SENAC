@@ -22,8 +22,7 @@ A modelagem foi construída com base em diagramas UML e protótipos funcionais d
 
 Os protótipos desenvolvidos no Figma estão disponíveis no link abaixo:
 
-🔗 **Figma – Sistema de Gestão SENAC EAD**  
-https://www.figma.com/design/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&m=dev&t=xrkRUne6U1k0YLd1-1
+🔗 **[Protótipo no Figma – Sistema de Gestão SENAC EAD](https://www.figma.com/design/3fYvIYtWRnlsrIA3ybBM4p/COMPARTILHADO---Sistema-de-Gest%C3%A3o---SENAC-EAD?node-id=0-1&m=dev&t=xrkRUne6U1k0YLd1-1)**
 
 Também estão organizados na pasta:
 
