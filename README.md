@@ -1,4 +1,4 @@
-# Sistema de Cadastro Universitário
+# Sistema de Gestão de Cadastro Universitário
 
 Este repositório reúne os artefatos da segunda entrega do projeto, incluindo protótipos, diagramas, documentação e scripts SQL. 
 O sistema foi projetado para gerenciar cadastros de Pessoas Físicas, Pessoas Jurídicas, Professores, Alunos e Fornecedores.
