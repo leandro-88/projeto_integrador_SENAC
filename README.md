@@ -1,4 +1,4 @@
-# Projeto Integrador - Sistema de Gestão Acadêmica <img src="imagens/Senac_logo.png" width="50%">
+# Projeto Integrador - Sistema de Gestão Acadêmica <img src="imagens/Senac_logo.png" width="10%">
 
 ## Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 
