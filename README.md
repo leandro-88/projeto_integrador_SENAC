@@ -32,7 +32,6 @@ queries.sql → Scripts DML e consultas de teste
 docs/
 → Documentação complementar da Entrega 2
 
-README.md
 ---
 
 ## Instruções de Uso
