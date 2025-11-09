@@ -18,16 +18,16 @@ Esses elementos compõem a base para a futura implementação do sistema.
 
 ## Estrutura do Repositório
 
-docs/ <br>
+**docs/** <br>
 → Documentação completa do projeto, incluindo diagramas (Casos de Uso, Classes, etc.), especificações e demais artefatos desenvolvidos.
 
-imagens/  
+**imagens/**  
 → Repositório central de todos os recursos visuais do projeto, como diagramas UML e telas do protótipo.
 
-prototipos_interface/  
+**prototipos_interface/** 
 → Protótipos funcionais das jornadas de uso, desenvolvidos no Figma.
 
-sql/ <br>
+**sql/** <br>
 → Scripts referentes ao modelo de dados do sistema, seguindo os padrões DDL e DML: 
    - tabelas.sql – Definição das estruturas do banco de dados (DDL).
    - queries.sql – Inserções, consultas e demais comandos de manipulação de dados (DML).
