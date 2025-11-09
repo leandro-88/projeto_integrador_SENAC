@@ -13,8 +13,8 @@
 
 <p align="center">
   <strong>Autores:</strong><br>
-  Alvaro Silva Garcia<br> • Leandro Abreu de Oliveira Filho<br> •Leonardo de Carvalho Machado<br>
-  Lucas Vinicius Reis<br> • Vinicius Avila Possamai<br>
+  • Alvaro Silva Garcia • Leandro Abreu de Oliveira Filho<br> •Leonardo de Carvalho Machado
+  • Lucas Vinicius Reis • Vinicius Avila Possamai<br>
 </p>
 
 <p align="center">
