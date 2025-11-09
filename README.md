@@ -28,8 +28,8 @@ Esses elementos compõem a base para a futura implementação do sistema.
 → Protótipos funcionais das jornadas de uso, desenvolvidos no Figma.
 
 **sql/** <br>
-→ Scripts referentes ao modelo de dados do sistema, seguindo os padrões DDL e DML: 
-   tabelas.sql – Definição das estruturas do banco de dados (DDL).
+→ Scripts referentes ao modelo de dados do sistema, seguindo os padrões DDL e DML: <br>
+   tabelas.sql – Definição das estruturas do banco de dados (DDL).<br>
    queries.sql – Inserções, consultas e demais comandos de manipulação de dados (DML).
 
 ---
