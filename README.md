@@ -26,7 +26,7 @@ imagens/
 prototipos_interface/  
 → Protótipos funcionais das jornadas de uso, desenvolvidos no Figma.
 
-sql/ 
+sql/ <br>
 → scripts referentes ao modelo de dados do sistema, seguindo os padrões DDL e DML: 
    - tabelas.sql – Definição das estruturas do banco de dados (DDL).
    - queries.sql – Inserções, consultas e demais comandos de manipulação de dados (DML).
