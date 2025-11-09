@@ -1,4 +1,4 @@
-# Projeto Integrador - Sistema de Gestão Acadêmica <img src="imagens/Senac_logo.png" width="10%">
+# Projeto Integrador - Sistema de Gestão Acadêmica <img src="../imagens/Senac_logo.png" width="10%">
 
 ## Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 
@@ -15,7 +15,7 @@ Professor Orientador: Me. Anderson Clayton
 ## 1\. Diagrama de Caso de Uso
 
 Este diagrama representa os atores que interagem com o sistema e as funcionalidades de cadastro que cada um pode executar.
-<img src="imagens/Diagrama Casos de Uso.png">
+<img src="../imagens/Diagrama Casos de Uso.png">
 
 ### Atores e Funcionalidades
 
