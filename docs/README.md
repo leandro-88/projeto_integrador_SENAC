@@ -1,5 +1,5 @@
 # Projeto Integrador – Sistema de Gestão Acadêmica  
-<img src="../imagens/Senac_logo.png" width="100">
+<img src="../imagens/Senac_logo.png" width="80">
 
 ### **Desenvolvimento de Sistemas Orientado a Objetos**  
 **Modelagem de um Sistema de Gestão Acadêmica com UML**
